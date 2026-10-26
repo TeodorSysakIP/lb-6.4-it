@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\lb 6.4 itt.obj",
+            "outputs": [
+                "x64\\Debug\\lb 6.4 itt.cpp.obj.dt.module.json",
+                "x64\\Debug\\lb 6.4 itt.cpp.obj.dt.d.json",
+                "x64\\Debug\\lb 6.4 itt.pch"
+            ],
+            "requires": []
+        }
+    ]
+}

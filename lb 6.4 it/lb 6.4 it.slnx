@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lb 6.4 it/lb 6.4 it.vcxproj" />
+  <Project Path="lb 6.4 itt/lb 6.4 itt.vcxproj" />
+</Solution>
